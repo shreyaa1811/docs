@@ -9,21 +9,16 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-  "pages": [
-    {
-      "group": "Getting Started",
-      "pages": [
-        "index",
-        "quickstart"
-      ]
-    },
-    {
-      "group": "Cybersecurity Workshop",
-      "pages": [
-        "Cybersecurity_Workshop"
-      ]
-    }
-  ],
+    "pages": [
+      {
+        "group": "Getting Started",
+        "pages": [
+          "index",
+          "quickstart",
+          "day-1"
+        ]
+      }
+    ],
     "global": {
       "anchors": [
         {
