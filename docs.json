@@ -11,10 +11,8 @@
   "navigation": {
     "pages": [
       {
-        "group": "Getting Started",
+        "group": "Workshop Documentation",
         "pages": [
-          "index",
-          "quickstart",
           "day-1"
         ]
       }
